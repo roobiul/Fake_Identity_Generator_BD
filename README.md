@@ -9,7 +9,9 @@ A sleek and interactive web application that generates realistic fake identities
 - **Copy Functionality**: One-click copy for all identity information
 - **Responsive Design**: Works perfectly on desktop and mobile devices
 - **Email Generation**: Creates emails with 3-4 digit random numbers for uniqueness
-(https://github.com/roobiul/Fake_Identity_Generator_BD/blob/main/Screenshot.png)
+
+  
+[Screenshot.png]
 ## 🚀 How to Use
 
 1. Open the application in your web browser
