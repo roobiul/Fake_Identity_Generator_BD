@@ -1,4 +1,4 @@
-# Fake Identity Generator
+# Fake Identity Generator BD
 
 A sleek and interactive web application that generates realistic fake identities with a beautiful card-based UI. Perfect for testing, development, or educational purposes.
 
@@ -11,7 +11,7 @@ A sleek and interactive web application that generates realistic fake identities
 - **Email Generation**: Creates emails with 3-4 digit random numbers for uniqueness
 
   
-[Screenshot.png]
+![Fake Identity Generator BD](Screenshot.png)
 ## 🚀 How to Use
 
 1. Open the application in your web browser
